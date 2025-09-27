@@ -30,11 +30,9 @@
 
 
 
-## 🛠 실행 환경
+##  실행 환경
 
 - Python 3.10 이상
 - Colab 권장
 - 주요 라이브러리: `transformers`, `torch`, `faiss`, `langchain` 등
 
-
-본 레포지토리는 개인 학습용 자료이며, 상업적 사용을 금합니다.
