@@ -6,16 +6,25 @@
 
 ##  레포지토리 구성
 
-| `1. AI Agent.ipynb` : AI 에이전트 기본 구현 예제 |
-| `2. 랭그래프.ipynb` : 랭그래프(LangGraph) 기본 개념 및 사용법 |
-| `3(1). 랭그래프 기초.ipynb` : 랭그래프 기초 실습 노트북 |
-| `3(2).LangGraph기반 챗봇 만들기.ipynb` : LangGraph를 활용한 챗봇 제작 예제 |
-| `3(3). 기본 챗봇 만들기.ipynb` : 일반적인 챗봇 구현 예제 |
-| `4. 랭그래프를 이용한 간단한 챗봇.ipynb`:| 랭그래프 기반 간단 챗봇 실습 |
-| `5. 랭그래프 Reflection(by teacher).ipynb` : 강사 제공 Reflection 예제 |
-| `5. 랭그래프 Reflection.ipynb` : Reflection 실습용 예제 |
-| `6. 벡터 데이터베이스.ipynb` : 벡터 DB 개념과 구축 실습 |
-| `7. 쿼리문을 작성하는 RAG.ipynb` : RAG(Query 작성) 실습 예제 |
+ `1. AI Agent.ipynb` : AI 에이전트 기본 구현 예제 
+
+ `2. 랭그래프.ipynb` : 랭그래프(LangGraph) 기본 개념 및 사용법 
+ 
+ `3(1). 랭그래프 기초.ipynb` : 랭그래프 기초 실습 노트북 
+ 
+ `3(2).LangGraph기반 챗봇 만들기.ipynb` : LangGraph를 활용한 챗봇 제작 예제 
+ 
+ `3(3). 기본 챗봇 만들기.ipynb` : 일반적인 챗봇 구현 예제 
+ 
+ `4. 랭그래프를 이용한 간단한 챗봇.ipynb`:| 랭그래프 기반 간단 챗봇 실습 
+ 
+ `5. 랭그래프 Reflection(by teacher).ipynb` : 강사 제공 Reflection 예제 
+ 
+ `5. 랭그래프 Reflection.ipynb` : Reflection 실습용 예제 
+ 
+ `6. 벡터 데이터베이스.ipynb` : 벡터 DB 개념과 구축 실습 
+ 
+ `7. 쿼리문을 작성하는 RAG.ipynb` : RAG(Query 작성) 실습 예제 
 
 
 
