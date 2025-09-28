@@ -18,9 +18,9 @@
  
  `3(3). 기본 챗봇 만들기.ipynb` : 일반적인 챗봇 구현 예제 
  
- `4. 랭그래프를 이용한 간단한 챗봇.ipynb`:| 랭그래프 기반 간단 챗봇 실습 
+ `4. 랭그래프를 이용한 간단한 챗봇.ipynb`: 랭그래프 기반 간단 챗봇 실습 
  
- `5. 랭그래프 Reflection(by teacher).ipynb` : 강사 제공 Reflection 예제 
+ `5. 랭그래프 Reflection(by teacher).ipynb` : Reflection 예제 
  
  `5. 랭그래프 Reflection.ipynb` : Reflection 실습용 예제 
  
